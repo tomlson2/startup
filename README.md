@@ -1,5 +1,5 @@
 # README
-## About
+### About
 This is my repo for CS260 at BYU.
 
 ### Initial Project
